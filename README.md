@@ -1,1 +1,1 @@
-https://rolling-scopes-school.github.io/aleksander0889/news-JS/src/index/
+https://rolling-scopes-school.github.io/aleksander0889/src/index/
